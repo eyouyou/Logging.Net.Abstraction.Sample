@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logging.Net.Abstraction.Sample", "Logging.Net.Abstraction.Sample\Logging.Net.Abstraction.Sample.csproj", "{19AE6D7A-3EDF-4B0C-9A9F-75B414EBE170}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logging.Net.Abstraction", "Logging.Net.Abstraction\Logging.Net.Abstraction.csproj", "{F8B0EA49-E82A-4F79-99D5-35B82CF0A26F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19AE6D7A-3EDF-4B0C-9A9F-75B414EBE170}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19AE6D7A-3EDF-4B0C-9A9F-75B414EBE170}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19AE6D7A-3EDF-4B0C-9A9F-75B414EBE170}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19AE6D7A-3EDF-4B0C-9A9F-75B414EBE170}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8B0EA49-E82A-4F79-99D5-35B82CF0A26F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8B0EA49-E82A-4F79-99D5-35B82CF0A26F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8B0EA49-E82A-4F79-99D5-35B82CF0A26F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8B0EA49-E82A-4F79-99D5-35B82CF0A26F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68D81E08-CAFE-4242-BB60-99949E5A3FFB}
+	EndGlobalSection
+EndGlobal
